@@ -1,0 +1,20 @@
+{
+  "name": "webpack-playground",
+  "version": "1.0.0",
+  "description": "A project dedicated to a proper understanding of Webpack api and configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielOarga/webpack-playground.git"
+  },
+  "keywords": [],
+  "author": "Gabriel oarga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielOarga/webpack-playground/issues"
+  },
+  "homepage": "https://github.com/GabrielOarga/webpack-playground#readme"
+}
