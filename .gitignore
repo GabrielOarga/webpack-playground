@@ -1,32 +1,15 @@
-# Prerequisites
-*.d
+# Dependency directory
+node_modules/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Output directory
+build/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Coverage & Snapshot testing
+coverage/
+src/**/__snapshots__
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# IDE metadata
+.idea
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Mac files
+.DS_Store
