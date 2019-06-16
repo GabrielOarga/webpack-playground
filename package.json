@@ -11,7 +11,7 @@
     "url": "git+https://github.com/GabrielOarga/webpack-playground.git"
   },
   "keywords": [],
-  "author": "Gabriel Oarga",
+  "contributors": ["Gabriel Oarga"],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/GabrielOarga/webpack-playground/issues"
